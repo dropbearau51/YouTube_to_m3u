@@ -7,5 +7,5 @@ https://www.youtube.com/c/24OnLive/live
 ABC News | AU | https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/1200px-ABC_News_%28Australia%29_logo.svg.png |
 https://www.youtube.com/@abcnewsaustralia/live
 
-ABC News | AU | https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png |
+NBL | AU | https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png |
 https://www.youtube.com/@nbl/live
